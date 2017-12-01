@@ -1,0 +1,2 @@
+# webService
+百川燃气通过webService的restful接口获取pSpace实时数据；
