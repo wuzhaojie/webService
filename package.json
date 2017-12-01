@@ -1,0 +1,11 @@
+{
+  "name": "webservice",
+  "version": "1.0.0",
+  "description": "百川燃气webservice定制接口",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wuzhaojie",
+  "license": "ISC"
+}
